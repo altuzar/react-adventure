@@ -1,5 +1,0 @@
-Install with:
-
-```
-npm install
-```
