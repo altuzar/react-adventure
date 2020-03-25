@@ -1,0 +1,5 @@
+Install with:
+
+```
+npm install
+```
